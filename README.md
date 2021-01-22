@@ -24,4 +24,4 @@ THEN the saved events persist
 ABOUT THE APP
 
 Using JQuerry and Moments.js I was able to write an app that would allow a user to create daily tasks as well as keep up with them in an hourly based manner. They will be able to see how on track they are using the color coded rows of hourly tasks they have set for themselves. I styled the page with a combination of bootstrap and plain CSS as well as using an icon from fontawesome.com
-![Work Day Scheduler](https://ibb.co/kSXBwv5)
+![Work Day Scheduler](./assets/images/site-image.png)
